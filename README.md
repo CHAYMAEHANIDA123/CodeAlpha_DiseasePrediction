@@ -47,3 +47,15 @@ python disease_prediction.py
 ```
 
 ## 📁 Structure du dépôt
+CodeAlpha_DiseasePrediction/
+├── disease_prediction.py # Script principal (entraînement + évaluation)
+├── disease_roc_curve.png # Courbe ROC du modèle
+├── model_comparison.png # Comparaison des 4 modèles
+├── confusion_matrix.png # Matrice de confusion du meilleur modèle
+└── README.md
+## 👩‍💻 Auteur
+**Chaymae Hanida** — Stagiaire Machine Learning, CodeAlpha
+[GitHub](https://github.com/CHAYMAEHANIDA123)
+
+---
+*Ce projet fait partie du stage Machine Learning CodeAlpha (Août 2026).*
